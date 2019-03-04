@@ -1,59 +1,52 @@
 
-/* ======+++++======++++=====+++=== */
-/* ============ DESKTOP RULES ===== */
-/* ======+++++======++++=====+++=== */
-
-/* desktop rules go here */
-
 /* header & nav */
 
 header {
-  /* 1 property */
+
 }
 
 header .logo, header nav {
-  /* 1 property */
+
 }
 
 
 .container .aboutrow {
-  /* 1 property */
+
 }
 
 
 /* feature */
 
 .feature {
-  /* 1 property */
+
 }
 
 /* cta */
 
 .cta .container {
-  /* 1 property */
+
 }
 
 
 /* footer */
 
 footer {
-  /* 1 property */
+
 }
 
 .footer-left {
-  /* 3 properties */
+
 }
 
 .footer-left .footer-col {
-  /* 1 property */
+
 }
 
 .footer-right {
-  /* 1 property */
+
 }
 
 /* ======+++++======++++=====+++=== */
-/* ========= DON'T TOUCH!!! ======= */
 /* ======+++++======++++=====+++=== */
 
 .container {
